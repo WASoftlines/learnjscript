@@ -15,7 +15,7 @@
   "author": "Wim Overmars",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "4.17.11",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
